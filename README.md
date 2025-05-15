@@ -1,0 +1,2 @@
+# comagic
+test tasks
